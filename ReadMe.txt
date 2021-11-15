@@ -1,3 +1,6 @@
+### This Project included a framework which I created during Design Frameworks for Advanced Web Development.
+
+# The MVC files are located in the frappio folder
 
 Created by Shane Proverbs
 The name of the database is 'framework'
