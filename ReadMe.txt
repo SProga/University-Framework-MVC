@@ -1,5 +1,5 @@
 
-Created by Shane Proverb: 413001193
+Created by Shane Proverbs
 The name of the database is 'framework'
 
 the list of some exisiting userNames and passwords are :
